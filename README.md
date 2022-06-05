@@ -10,7 +10,7 @@
 
 ------------
 
-**Algorithms used: **
+**Algorithms used**
 
 1- ARIMA
 2- RFM Scoring
