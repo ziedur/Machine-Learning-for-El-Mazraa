@@ -6,7 +6,7 @@
 
 ------------
 
-**Caution:** Data presented in this file is no a real representation of data to protect any confidentialities. However, data behaves with the same pattern as the real one.
+**Caution:** Data presented in this file is __not__ a real representation of data to protect any confidentialities. However, the __same techniques__ can be applied in real data.
 
 ------------
 
@@ -18,4 +18,14 @@
 
 
 ------------
+
+**Before running the ML algorithms**
+
+Data warehousing has been applied, using the Kimball technique for dimensional modeling. Our aim is to study the behaviour of __sales__
+
+**A FULL REPORT OF DATA WAREHOUSING AND ML PROCESS CAN BE SEEN  HERE: https://docdro.id/g9oAAFw  ** 
+
+
+
+*caution : this report has been uploaded to 99% of the plagiarism checking websites, you will be held accountable of any copying or absence of referencing*
 
